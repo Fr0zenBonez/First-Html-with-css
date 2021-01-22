@@ -1,0 +1,88 @@
+h1 {
+    position: absolute;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+    color: khaki;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+
+h1, h2, h3, p {
+    font-family: "Helvetica", sans-serif;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+    text-align: center;
+    font-size: 50px;
+}
+
+.item h2 {
+    font-size: 32px;
+    color: black;
+}
+
+.item {
+    text-align: center;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#frame {
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 50px;
+}
+
+.frame {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#paint {
+    background-color: skyblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.paint {
+    text-align: center;
+}
+
+.price {
+    color: blue;
+}
+
+p {
+    font-size: 18px;
+}
